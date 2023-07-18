@@ -58,7 +58,7 @@ The resulting table is:
 |    67    |      Asia     |
 
 ## Conclusion
-The continent with the highest life expectancy was North America with 74 of value, followed by South America with 73 of value and Asia with the lowest value of 67.
+The continent with the highest life expectancy was North America with 73 years, followed by South America with 71 years and Asia with the lowest of 67 years.
 
 
 
